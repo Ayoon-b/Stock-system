@@ -1,19 +1,13 @@
 # 주식 시스템
 - 시장지표 및 해외증시 주식 시스템
 - 데이터 조회, 수정, 삭제 가능
-
-
-
-
+    
 기본화면
 ----------
 <div>
 <img width="400" src="https://user-images.githubusercontent.com/58851760/103439583-802f2e80-4c81-11eb-882c-78b35b902cfd.jpg"></img>
 </div>
-
-
-
-
+  
 시장지표
 ----------
 <div>
@@ -22,10 +16,7 @@
 <img width="500" src="https://user-images.githubusercontent.com/58851760/103439528-0008c900-4c81-11eb-80b9-525c48c9c7be.JPG"></img>
 <img width="500" src="https://user-images.githubusercontent.com/58851760/103439534-0dbe4e80-4c81-11eb-8640-d3ac531b7ae2.JPG"></img>
 </div>
-
-
-
-
+  
 해외증시
 ----------
 <div>
